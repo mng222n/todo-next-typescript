@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://github.com/mng335n/node-nextjs-todo-app/blob/master/screenshot.png">
 </p>
 
 ## Features
